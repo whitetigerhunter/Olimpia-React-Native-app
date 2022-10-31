@@ -1,7 +1,2 @@
-
-# OLD README NOTES
-[![Build Status](https://app.bitrise.io/app/8529e7e32b8c3d79/status.svg?token=7mGUScYrdnPZR-t9rCgk5g&branch=master)](https://app.bitrise.io/app/8529e7e32b8c3d79)
-
-
-
-
+OLIMPIA is a solution powered by AI in the perfumes and cosmetics domains. OLIMPIA powers innovative hyper-personalization and product recommendations while encompassing all aspects of the brand experience across multiple customer touchpoints.
+OLIMPIA is the unique Consistent Digital perfumes and cosmetics Experience for multiple Channels.
